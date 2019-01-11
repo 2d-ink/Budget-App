@@ -18,7 +18,8 @@ Giving user a site where they can go to to orginize their bills and budget.
 * CSS
 * JS
 
-
+## BUGS and ISSUE
+* The app was working perfection but then there's an error that is preventing it to fully run. I'm still in the process of trouble shooting it. 
 
 
 
